@@ -59,7 +59,7 @@ Educational content on YouTube is vast and unstructured. Students often seek qui
 
 ##  Methodology Flowchart
 
-![Methodology Flowchart](.\https://github.com/Pakhi27/LLM-YouTube-Video-Summarizer-with-Comparison-Insights/blob/main/Methodology%20(2).png)
+![Methodology Flowchart](Methodology(2).png)
 
 ---
 
