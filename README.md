@@ -56,10 +56,9 @@ Educational content on YouTube is vast and unstructured. Students often seek qui
 - Summarized knowledge base ensures concise and relevant responses.
 
 ---
+## 🧭 Methodology Flowchart
 
-##  Methodology Flowchart
-
-![Methodology Flowchart](Methodology(2).png)
+![Methodology Flowchart](methodology_flowchart.png)
 
 ---
 
