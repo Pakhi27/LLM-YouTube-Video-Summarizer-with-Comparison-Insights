@@ -59,7 +59,7 @@ Educational content on YouTube is vast and unstructured. Students often seek qui
 
 ##  Methodology Flowchart
 
-![Methodology Flowchart](.\methodology_flowchart.png)
+![Methodology Flowchart](.\Methodology(2).png)
 
 ---
 
